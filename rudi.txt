@@ -1,2 +1,2 @@
 one line - change
-second line 
+second line - change
